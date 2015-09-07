@@ -1,0 +1,7 @@
+run :npm install.
+run :bower install.
+to run application do: sudo npm run watch and in another tab gulp.
+
+enjoy!!!
+
+for any queries mail me at shashankaushik100@gmail.com
